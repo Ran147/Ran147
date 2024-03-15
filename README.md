@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Randy Downing</h1>
-<h3 align="center">Just a Computer Science student who is passionate about learning</h3>
+<h3 align="center">Just a Computer Science student who is still getting hang of things</h3>
 
-- 🌱 I’m currently learning and doing some projects related to **HTML, CSS and Java**
+- 🌱 I’m currently learning and doing some projects related to **Machine Learning**
 - 📫 How to reach me **randydowning147@estudiantec.cr**
 - 🌟 Always trying to be better each passing day
 
