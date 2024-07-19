@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Randy Downing</h1>
 <h3 align="center">Just a Computer Science student who is passionate about learning</h3>
 
-- 🌱 I’m currently learning about **CyberSecurity and Game Development**
+- 🌱 I’m currently learning about **Deep Learning**
 
 - 📫 How to reach me **randydowning147@estudiantec.cr**
 
