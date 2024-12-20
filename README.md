@@ -1,5 +1,5 @@
 # 💫 About Me:
-Just a Computer Science student always looking for opportunities to improve and learn new technologies<br><br>I'm currently learning about hardware integration in software driven solutions.<br>
+Just a Computer Science student always looking for opportunities to improve and learn new technologies<br><br>I'm currently learning Data Science.<br>
 
 
 # 💻 Tech Stack:
